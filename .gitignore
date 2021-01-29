@@ -1,0 +1,6 @@
+# Built files
+*.o
+*.exe
+
+# IDE folder/files
+.vscode/
