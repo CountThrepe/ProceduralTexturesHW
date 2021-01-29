@@ -8,14 +8,14 @@ Examples:
 ![](examples/burningD20.gif)
 ![](examples/burningTorus.gif)
 
-Key bindings
+Key bindings:
+
 	m          Toggle light movement
 	o          Change objects
 	arrows     Change view angle
 	PgDn/PgUp  Zoom in and out
 	0          Reset view angle
 	ESC        Exit
-
 	space      Start burning
 	r          Reset shader
 
